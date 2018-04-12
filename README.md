@@ -7,3 +7,5 @@
 [IPython Notebook使用](http://www.cnblogs.com/giserliu/p/4997144.html)
 
 [Abu](http://www.abuquant.com/)
+
+[Abu API](https://doc.abuquant.com/index.html)
